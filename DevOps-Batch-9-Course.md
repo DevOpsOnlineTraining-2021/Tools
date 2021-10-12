@@ -3,7 +3,7 @@
 
 Interested guys to join DevOps online training, please contact: 9966960045/9032440040 (WhatsApp/Call)
 
-*Timings*: 8am to 9am IST
+*Timings*: Weekends
 
 *Technologies*: Java
 
