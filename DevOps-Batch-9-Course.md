@@ -1,7 +1,7 @@
 
 ### DevOps Course Content:
 
-Interested guys to join DevOps online training, please contact: 9966960045/9032440040 (WhatsApp/Call)
+Interested guys to join DevOps online training, please contact: 9966960045 (WhatsApp/Call)
 
 *Timings*: Weekends
 
@@ -42,7 +42,7 @@ Interested guys to join DevOps online training, please contact: 9966960045/90324
 	- git commands-2
 	- branching and tagging stratagies
 	- git admin activities
-	- git CI/CD
+	- git CI/CD - GitOps
 
 *Build Tools*: Java: Maven - 2 hrs
 
